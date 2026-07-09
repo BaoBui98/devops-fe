@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-zinc-950 text-zinc-50 selection:bg-indigo-500/30 font-sans">
       {/* Navbar */}
+
       <nav className="fixed top-0 w-full z-50 border-b border-white/5 bg-zinc-950/50 backdrop-blur-md">
         <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
@@ -114,6 +115,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-8 text-center text-zinc-500 text-sm border-t border-white/5">
         <p>© 2026 DevOpsPro. All rights reserved.</p>
+        <h3>test 23142</h3>
       </footer>
     </div>
   );
