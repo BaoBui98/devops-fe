@@ -115,7 +115,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-8 text-center text-zinc-500 text-sm border-t border-white/5">
         <p>© 2026 DevOpsPro. All rights reserved.</p>
-        <h3>test 23142</h3>
+        <h3 className="text-red-500 text-2xl">test automation jenkins</h3>
       </footer>
     </div>
   );
